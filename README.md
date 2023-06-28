@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Smit Paresh Shah</h1>
-<h3 align="center">I am a <span style="color:orange;">tenacious 🚀, balanced ⚖️, quick 💨 and innovative 🕵️ learner who believes in hard-work.<br> Bringing forth a motivated attitude and a variety of powerful skills 🤹🏻 . Adept in various Data Science technologies. I Aspire to work further in the field of Machine Learning.</h3>
-
-- 🌱 I’m currently learning **Data Science with Python 🐍**
-
-- 🌱 I’m currently learning **Machine Learning and Deep learning**
+<h3 align="center">I am a <span style="color:orange;">tenacious 🚀, balanced ⚖️, quick 💨 and innovative 🕵️ learner who believes in hard-work.<br> Bringing forth a motivated attitude and a variety of powerful skills 🤹🏻 . Adept in various Web Development technologies.</h3>
 
 - 🌱 I’m currently learning **Web Development (MERN)**
+
+- - 🌱 I’m currently learning **Web Development (MEAN)**
 
 - 💬 Ask me about <br><br> **Technology Stack = { <br>            "Language" : [ "Python", "Java", "C", "C++"], </p>             "Microsoft" : [ "Microsoft Excel", "Microsoft Word", "Microsoft PowerPoint"], </p>            "Libraries" : [ "OpenCV", "Numpy", "Sklearn", "Pandas", "Matplotlib", "Seaborn"] , </p>             "Database" : [ "MySQL", "PostgreSQL" ] <br>          }**
 
 - 📫 How to reach me **smitpshah63@gmail.com**
-
-- ⚡ Fun fact **I like to sing song and like to watch cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
