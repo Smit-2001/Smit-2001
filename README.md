@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web Development (MERN)**
 
--  🌱 I’m currently learning **Web Development (MEAN)**
-
 - 💬 Ask me about <br><br> **Technology Stack = { <br>            "Language" : [ "Python", "Java", "C", "C++"], </p>             "Web Related Technology" : [ "HTML", "CSS", "ReactJS", "AngularJS"], </p>            "Web Server" : [ "NodeJS"] , </p>             "Database" : [ "MySQL", "MongoDB" ] <br>          }**
 
 - 📫 How to reach me **smitpshah63@gmail.com**
