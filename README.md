@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smit Paresh Shah</h1>
 <h3 align="center">I am a <span style="color:orange;">tenacious 🚀, balanced ⚖️, quick 💨 and innovative 🕵️ learner who believes in hard-work.<br> Bringing forth a motivated attitude and a variety of powerful skills 🤹🏻 . Adept in various Web Development technologies.</h3>
 
-- 🌱 I’m currently learning **Web Development (MERN)**
-
 - 💬 Ask me about <br><br> **Technology Stack = { <br>          "Language" : [ "Python", "Java", "C", "C++", "C#" ], </p>          "Web Related Technology" : ["HTML","CSS","JavaScript", "ReactJS",".NET Core","ASP.NET MVC","JQuery","AJAX"], </p>          "Web Server" : [ "NodeJS"] , </p>           "Database" : [ "MySQL", "MongoDB", "SQL Server" ] <br>          }**
 
 - 📫 How to reach me **smitpshah63@gmail.com**
