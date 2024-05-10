@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development (MERN)**
 
-- 💬 Ask me about <br><br> **Technology Stack = { <br>          "Language" : [ "Python", "Java", "C", "C++", "C#" ], </p>           "Web Related Technology" : ["HTML","CSS","JavaScript", "ReactJS",".NET Core","ASP.NET MVC","JQuery","AJAX" ], </p>          "Web Server" : [ "NodeJS"] , </p>           "Database" : [ "MySQL", "MongoDB", "SQL Server" ] <br>          }**
+- 💬 Ask me about <br><br> **Technology Stack = { <br>          "Language" : [ "Python", "Java", "C", "C++", "C#" ], </p>          "Web Related Technology" : ["HTML","CSS","JavaScript", "ReactJS",".NET Core","ASP.NET MVC","JQuery","AJAX"], </p>          "Web Server" : [ "NodeJS"] , </p>           "Database" : [ "MySQL", "MongoDB", "SQL Server" ] <br>          }**
 
 - 📫 How to reach me **smitpshah63@gmail.com**
 - Portfolio **https://smit-shah-portfolio.web.app**
